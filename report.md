@@ -1,0 +1,3 @@
+# Report on Git and Github lab
+
+I initialized a Git repository and created the required files student-info.txt, report.md, and index.html. I made two commits, the first on succesfull creation of files and the second as Initial commit with student files to update the HTML and txt files. I created a branch named feature/student-details for the changes where I wrote this report on a seperate branch from the main one. The HTML page was successfully deployed to GitHub Pages.
